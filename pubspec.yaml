@@ -11,9 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_blue_plus: ^1.31.15       # BLE
-  bluetooth_classic: ^0.3.2         # Classic
-  flutter_joystick: ^1.2.0          # Joystick widget
+  flutter_blue_plus: ^1.31.15         # BLE
+  flutter_bluetooth_serial: ^0.4.0+4  # Classic (stabil)
+  flutter_joystick: ^1.2.0            # Joystick
 
 flutter:
   uses-material-design: true
